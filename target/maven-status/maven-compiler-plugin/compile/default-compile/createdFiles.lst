@@ -1,0 +1,7 @@
+controller/bookController.class
+tdw/book/resources/JavaEE8Resource.class
+sessionbean/AbstractFacade.class
+sessionbean/BookFacade.class
+tdw/book/JAXRSConfiguration.class
+sessionbean/BookFacadeLocal.class
+tdw/entities/Book.class
